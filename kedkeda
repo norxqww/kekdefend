@@ -1,0 +1,1 @@
+{ id: 1, name: 'dynasty', banned: false }, { id: 2, name: 'nixer', banned: true }
